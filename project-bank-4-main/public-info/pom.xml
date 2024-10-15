@@ -45,3 +45,9 @@
     </build>
 </project>
 
+ <dependency>
+<groupId>com.example</groupId> <!-- Замените на правильные данные -->
+<artifactId>common</artifactId>
+<version>1.0</version>
+</dependency>
+
